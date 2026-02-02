@@ -75,8 +75,8 @@ I’m a **Software QA Engineer (Manual & Automation)** with a strong interest in
 
 ## 📫 Contact Me
 
-* 💼 **LinkedIn:** [https://linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-* 💻 **GitHub:** [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+* 💼 **LinkedIn:** [https://linkedin.com/in/evgenii-polianin](https://linkedin.com/in/evgenii-polianin)
+* 💻 **GitHub:** [https://github.com/polianinevgenii](https://github.com/polianinevgenii)
 
 ---
 
