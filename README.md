@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/polianinevgenii/polianinevgenii/main/banner.png" alt="QA Banner" />
+  <img src="https://raw.githubusercontent.com/polianinevgenii/main/banner.png" alt="QA Banner" />
 </p>
 
 # Hi there 👋 I’m Evgenii
