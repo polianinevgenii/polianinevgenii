@@ -52,9 +52,8 @@ I’m a **Software QA Engineer (Manual & Automation)** with a strong interest in
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polianinevgenii&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=polianinevgenii&layout=compact&theme=dark)
 
 ---
 
